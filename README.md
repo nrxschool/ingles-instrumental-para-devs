@@ -1,6 +1,6 @@
 # Inglês instrumental para Devs
 Este curso foi desenhado para transformar a leitura técnica de uma tarefa em uma
-habilidade fluida. Com uma carga horária de 20 horas, o foco não é gramática
+habilidade fluida. Com uma carga horária de 13 horas, o foco não é gramática
 tradicional, mas sim o reconhecimento de padrões e a extração eficiente de
 informação.
 ### Módulo 1: The Foundation (3h)
